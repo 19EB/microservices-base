@@ -45,7 +45,6 @@ npm install
 ```
 
 ### Environment variables
-You will need to create .env and .env.dev in root directories of api-gateway and each microservice in order for them to communicate with each other.
 
 This project uses the following environment variables:
 ##### api-gateway
