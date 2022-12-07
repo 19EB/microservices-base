@@ -113,6 +113,10 @@ npm start
 cd api-gateway
 
 npm start
+
+or
+
+npm run dev
 ```
 Navigate to `http://localhost:8000`
 
